@@ -1,0 +1,22 @@
+{
+	"name": "Invoice Generator",
+	"short_name": "Invoice Generator",
+	"lang": "en-US",
+	"start_url": "https://lrusso.github.io/InvoiceGenerator/InvoiceGenerator.htm",
+	"display": "standalone",
+	"orientation": "portrait",
+	"theme_color": "#FFFFFF",
+	"background_color": "#FFFFFF",
+	"icons": [
+		{
+			"src": "https://lrusso.github.io/InvoiceGenerator/InvoiceGeneratorFavIcon_192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "https://lrusso.github.io/InvoiceGenerator/InvoiceGeneratorFavIcon_512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
