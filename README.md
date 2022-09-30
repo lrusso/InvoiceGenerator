@@ -1,6 +1,6 @@
 # Invoice Generator
 
-Invoice Generator in JavaScript.
+Invoice Generator in JavaScript. Export it as a PDF file.
 
 ## Web:
 
